@@ -1,10 +1,14 @@
-到ChatGPT官网 登录
+i到ChatGPT官网 登录
+
 ![请添加图片描述](https://img-blog.csdnimg.cn/fedbe06664e74bdbbb9533742b419237.png)
+
 ![请添加图片描述](https://img-blog.csdnimg.cn/d8808d650eeb48988d73916b7a31980e.png)
 
 ![请添加图片描述](https://img-blog.csdnimg.cn/41b72ed4b9e94231ae544c5f49d45797.png)
+
 保存这个key
 然后去google搜索colab
+
 ![请添加图片描述](https://img-blog.csdnimg.cn/c27354df900b452c95b6cd52eeb7cb32.png)
 
 
